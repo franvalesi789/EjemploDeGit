@@ -1,9 +1,9 @@
-git clone
+git clone (clonar repositorio)
 
-git add .
+git add . (agregar los cambios realizados)
 
-git commit -m "mensaje del commit"
+git commit -m "mensaje del commit"  (crear commit sobre cambios realizados)
 
-git push
+git push (subir cambios a github)
 
 git status (me permite ver el estado actual del repositorio local) 

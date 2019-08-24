@@ -1,4 +1,9 @@
 git clone
+
 git add .
+
 git commit -m "mensaje del commit"
+
 git push
+
+git status (me permite ver el estado actual del repositorio local) 
